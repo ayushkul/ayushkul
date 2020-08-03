@@ -2,10 +2,11 @@
 
 ### Hey, I'm Ayush Kulshrestha 👋
 
-- 🔭 I’m currently working on a Dating App
-- 🌱 I’m currently exploring Full stack Dev 
-- 👯 I’m looking to collaborate on [Youtube](https://www.youtube.com/channel/UCbaR6YYn5VGXrR5_f-4tNsA/videos?view=0&sort=p&flow=grid&view_as=subscriber)
+- 🔭  I’m currently working on a Dating App
+- 🌱  I’m currently exploring Full stack Development. 
+- 👯  I’m looking to collaborate on [Youtube](https://www.youtube.com/channel/UCbaR6YYn5VGXrR5_f-4tNsA/videos?view=0&sort=p&flow=grid&view_as=subscriber)
 - 📫  Let's connect over [Instagram](https://www.instagram.com/theindiandev)
+- 📫  Follow me on [Twitter](https://twitter.com/Ayush_kul)
 
 
 **Languages and Tools:**  
