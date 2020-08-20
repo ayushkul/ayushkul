@@ -23,9 +23,9 @@
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=ayushkul&show_icons=true&count_private=true&theme=dark" width="350"></a>
   <a href="#"><img src="https://media.giphy.com/media/62PP2yEIAZF6g/giphy.gif" width="241"></a>
 </p>
-<h3 align='center'>
-  Sharing, whatever I learn at <b>The Indian Dev</b>
-</h3>
+<h2 align='center'>
+  Sharing, whatever I learn at - The Indian Dev
+</h2>
 <p align='center'>
   <a href="https://instagram.com/theindiandev">
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
