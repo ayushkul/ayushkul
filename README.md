@@ -1,13 +1,28 @@
 
-
-### Hey, I'm [Ayush Kulshrestha](https://ayushkul.github.io) 👋
-
+<h1 align='center'>
+  Hi there 👋 I'm   <a href="https://www.linkedin.com/in/ayush-kulshrestha/">
+  Ayush Kulshrestha</a> 👨‍💻
+</h1>
+<p align='center'>
+  Fullstack Developer from India
+</p>
+<p align='center'>
+ 
+  <a href="https://www.linkedin.com/in/ayush-kulshrestha/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>&nbsp;&nbsp;
+  <a href="https://instagram.com/theindiandev">
+    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
+  </a>&nbsp;&nbsp;
+  
+</p>
+<!--
 - 🔭  I’m currently working on a Dating App
 - 🌱  I’m currently exploring Full stack Development. 
 - 👯  I’m looking to collaborate on [Youtube](https://www.youtube.com/channel/UCbaR6YYn5VGXrR5_f-4tNsA/videos?view=0&sort=p&flow=grid&view_as=subscriber)
 - 📫  I'm creating posts over [Instagram](https://www.instagram.com/theindiandev)
 - 📫  Follow me on [Twitter](https://twitter.com/Ayush_kul)
-
+-->
 ### Connect with me:
 
 [<img align="left" alt="ayush kulshrestha" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
@@ -17,12 +32,13 @@
 [<img align="left" alt="The Indian Dev | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram-theindiandev]
 [<img align="left" alt="Ayush Kulshrestha | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 <br/>
-
+<!--
 ### Languages I worked on
 <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=ayushkul&theme=light&hide_langs_below=1'/>
-
+-
 ### My Github Stats
 <img src='https://github-readme-stats.vercel.app/api?username=ayushkul&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515'/>
+-->
 
 ### Languages and Tools:
 
