@@ -40,6 +40,13 @@
   </a>&nbsp;&nbsp;
   
 </p>
+
+### 📺 Latest YouTube Videos
+
+<!-- YOUTUBE:START -->
+<!-- YOUTUBE:END -->
+
+➡️ [more videos...](https://www.youtube.com/channel/UCbaR6YYn5VGXrR5_f-4tNsA)
 <!--
 - 🔭  I’m currently working on a Dating App
 - 🌱  I’m currently exploring Full stack Development. 
