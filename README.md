@@ -46,7 +46,7 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [React 17 released - No New feature!  Really?](https://www.youtube.com/watch?v=-WozvHXIwhk)
+- [🔴 React 17 released - No New feature!  Really?](https://www.youtube.com/watch?v=-WozvHXIwhk)
 - [Learn useEffect In 13 Minutes - Master React Hooks](https://www.youtube.com/watch?v=OrL26qQ4RTs)
 - [Learn useState In 15 Minutes - React Hooks Explained](https://www.youtube.com/watch?v=Y0kepqiS7GA)
 - [How to create Awesome GitHub Profile ReadMe (New Feature) | Impress others with your Github Profile](https://www.youtube.com/watch?v=DEfSw0dtWd0)
