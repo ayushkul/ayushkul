@@ -46,8 +46,8 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Tic Tac Toe Game in 30 Minutes | ReactJS projects](https://www.youtube.com/watch?v=ZH9RXSVjj4Y)
-- [🔴 React 17 released - No New feature!  Really?](https://www.youtube.com/watch?v=-WozvHXIwhk)
+- [React.js - Tic Tac Toe Game in 30 Minutes 🔥](https://www.youtube.com/watch?v=ZH9RXSVjj4Y)
+- [React 17 released - No New feature! 🔥](https://www.youtube.com/watch?v=-WozvHXIwhk)
 - [Learn useEffect In 13 Minutes - Master React Hooks](https://www.youtube.com/watch?v=OrL26qQ4RTs)
 - [Learn useState In 15 Minutes - React Hooks Explained](https://www.youtube.com/watch?v=Y0kepqiS7GA)
 - [How to create Awesome GitHub Profile ReadMe (New Feature) | Impress others with your Github Profile](https://www.youtube.com/watch?v=DEfSw0dtWd0)
