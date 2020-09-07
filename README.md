@@ -46,7 +46,7 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Building a Todo List with React Hooks useState - From scratch to Github pages](https://www.youtube.com/watch?v=1lVzcXqRVMw)
+- [Building a Todo List with ReactJS using Hooks useState - with Github deployment](https://www.youtube.com/watch?v=1lVzcXqRVMw)
 - [Deploy React App to GitHub Pages for Free 🔥](https://www.youtube.com/watch?v=KmTdNPZ9qpk)
 - [React.js - Tic Tac Toe Game in 30 Minutes 🔥](https://www.youtube.com/watch?v=ZH9RXSVjj4Y)
 - [React 17 released - No New feature! 🔥](https://www.youtube.com/watch?v=-WozvHXIwhk)
