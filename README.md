@@ -48,7 +48,7 @@
 <!-- YOUTUBE:START -->
 - [Todo List app using Hooks useState - ReactJS Project [From scratch to Github pages]](https://www.youtube.com/watch?v=1lVzcXqRVMw)
 - [Deploy React App to GitHub Pages for Free [step by step]](https://www.youtube.com/watch?v=KmTdNPZ9qpk)
-- [Tic Tac Toe Game using Hooks - ReactJS project [step by step]](https://www.youtube.com/watch?v=ZH9RXSVjj4Y)
+- [React.js | Tic Tac Toe Game using React Hooks [Beginner Tutorial]](https://www.youtube.com/watch?v=ZH9RXSVjj4Y)
 - [React 17 released - No New feature! 🔥](https://www.youtube.com/watch?v=-WozvHXIwhk)
 - [Learn useEffect In 13 Minutes - Master React Hooks](https://www.youtube.com/watch?v=OrL26qQ4RTs)
 <!-- YOUTUBE:END -->
