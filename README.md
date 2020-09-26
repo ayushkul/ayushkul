@@ -46,11 +46,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [ReactJS Tutorial 1 - Introduction to React - The Complete course](https://www.youtube.com/watch?v=ydqHqU1_n_w)
 - [Todo List app using Hooks useState - ReactJS Project [From scratch to Github pages]](https://www.youtube.com/watch?v=1lVzcXqRVMw)
 - [Deploy React App to GitHub Pages for Free [step by step]](https://www.youtube.com/watch?v=KmTdNPZ9qpk)
 - [React.js | Tic Tac Toe Game using React Hooks [Beginner Tutorial]](https://www.youtube.com/watch?v=ZH9RXSVjj4Y)
 - [React 17 released - No New feature! 🔥](https://www.youtube.com/watch?v=-WozvHXIwhk)
-- [Learn useEffect In 13 Minutes - Master React Hooks](https://www.youtube.com/watch?v=OrL26qQ4RTs)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCbaR6YYn5VGXrR5_f-4tNsA)
