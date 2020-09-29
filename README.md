@@ -1,20 +1,20 @@
 
 <h1 align='center'>
-  Hi there 👋  I'm   <a href="https://ayushkul.github.io/">
+  Hi there 👋  I'm   <a href="https://ayushkul.github.io/" target="_blank">
   Ayush Kulshrestha</a> 👨‍💻
 </h1>
 <p align='center'>
-  Fullstack Developer from India
+  Fullstack Developer at <a href="https://www.leewayhertz.com/software-development-company" target="_blank">Leewayhertz</a>
 </p>
 <p align='center'>
  
-  <a href="https://www.linkedin.com/in/ayush-kulshrestha/">
+  <a href="https://www.linkedin.com/in/ayush-kulshrestha/" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
-  <a href="https://instagram.com/akcool.ayush">
+  <a href="https://instagram.com/akcool.ayush" target="_blank">
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
   </a>&nbsp;&nbsp;
-  <a href="https://twitter.com/Ayush_kul">
+  <a href="https://twitter.com/Ayush_kul" target="_blank">
     <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />        
   </a>&nbsp;&nbsp;
   
@@ -29,15 +29,15 @@
   Sharing, whatever I learn at - The Indian Dev
 </h2>
 <p align='center'>
-  <a href="https://instagram.com/theindiandev">
+  <a href="https://instagram.com/theindiandev" target="_blank">
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
   </a>&nbsp;&nbsp;
   
-  <a href="https://facebook.com/TheIndianDev">
+  <a href="https://facebook.com/TheIndianDev" target="_blank">
     <img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />        
   </a>&nbsp;&nbsp;
   
-  <a href="https://www.youtube.com/channel/UCbaR6YYn5VGXrR5_f-4tNsA">
+  <a href="https://www.youtube.com/channel/UCbaR6YYn5VGXrR5_f-4tNsA" target="_blank">
     <img src="https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" />        
   </a>&nbsp;&nbsp;
   
