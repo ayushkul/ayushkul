@@ -46,11 +46,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [ReactJS Tutorial 8 - Restrictions with JSX](https://www.youtube.com/watch?v=efxXNCw8wZk)
 - [ReactJS Tutorial 7 - What is JSX ?](https://www.youtube.com/watch?v=ce3pdR_MD70)
 - [ReactJS Tutorial 6 - What is Component ?](https://www.youtube.com/watch?v=JfLEC2hUOdQ)
 - [ReactJS Tutorial 5 - Folder Structure](https://www.youtube.com/watch?v=tSY_DP-Taio)
 - [ReactJS Tutorial 4 - create react app](https://www.youtube.com/watch?v=uFbDJt4niBI)
-- [ReactJS Tutorial 3 - Writing first code in React.js](https://www.youtube.com/watch?v=EeeMN6VFR0Y)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCbaR6YYn5VGXrR5_f-4tNsA)
