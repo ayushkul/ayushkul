@@ -46,11 +46,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [ReactJS Tutorial 10 - Props in ReactJS](https://www.youtube.com/watch?v=TYhocmb1-r8)
 - [ReactJS Tutorial 9 - Working with Components](https://www.youtube.com/watch?v=BLoxwy0Q5Bg)
 - [ReactJS Tutorial 8 - Restrictions with JSX](https://www.youtube.com/watch?v=efxXNCw8wZk)
 - [ReactJS Tutorial 7 - What is JSX ?](https://www.youtube.com/watch?v=ce3pdR_MD70)
 - [ReactJS Tutorial 6 - What is Component ?](https://www.youtube.com/watch?v=JfLEC2hUOdQ)
-- [ReactJS Tutorial 5 - Folder Structure](https://www.youtube.com/watch?v=tSY_DP-Taio)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCbaR6YYn5VGXrR5_f-4tNsA)
