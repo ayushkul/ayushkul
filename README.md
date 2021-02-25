@@ -46,11 +46,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [ReactJS Tutorial 13 - Event Handling](https://www.youtube.com/watch?v=lH92njo0RbM)
 - [ReactJS Tutorial 12 - State in ReactJS](https://www.youtube.com/watch?v=pBfW3lTWp5A)
 - [ReactJS Tutorial 11 - Class based Components in ReactJS](https://www.youtube.com/watch?v=Xrj92YBuXbE)
 - [ReactJS Tutorial 10 - Props in ReactJS](https://www.youtube.com/watch?v=TYhocmb1-r8)
 - [ReactJS Tutorial 9 - Working with Components](https://www.youtube.com/watch?v=BLoxwy0Q5Bg)
-- [ReactJS Tutorial 8 - Restrictions with JSX](https://www.youtube.com/watch?v=efxXNCw8wZk)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCbaR6YYn5VGXrR5_f-4tNsA)
