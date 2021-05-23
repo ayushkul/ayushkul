@@ -46,11 +46,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Things Every #ReactJS Beginner Should Know #shorts #webdevelopment](https://www.youtube.com/watch?v=IO2TCQzn66g)
 - [ReactJS Tutorial 14 - Working with Forms in ReactJS](https://www.youtube.com/watch?v=2lkrlhXrKNE)
 - [ReactJS Tutorial 14 - this.setState || State Manipulation](https://www.youtube.com/watch?v=K9yUB_yMOZ0)
 - [ReactJS Tutorial 13 - Event Handling](https://www.youtube.com/watch?v=lH92njo0RbM)
 - [ReactJS Tutorial 12 - State in ReactJS](https://www.youtube.com/watch?v=pBfW3lTWp5A)
-- [ReactJS Tutorial 11 - Class based Components in ReactJS](https://www.youtube.com/watch?v=Xrj92YBuXbE)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCbaR6YYn5VGXrR5_f-4tNsA)
