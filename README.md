@@ -46,11 +46,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [ReactJS Tutorial 15 - Two Way Binding || ReactJS Forms](https://www.youtube.com/watch?v=dViAlqZUY9s)
 - [Javascript console Methods || Console Logs, Errors, Warnings, Count, Assert  & More](https://www.youtube.com/watch?v=ustMqCLCRyM)
 - [Things Every #ReactJS Beginner Should Know #shorts #webdevelopment](https://www.youtube.com/watch?v=IO2TCQzn66g)
 - [ReactJS Tutorial 14 - Working with Forms in ReactJS](https://www.youtube.com/watch?v=2lkrlhXrKNE)
 - [ReactJS Tutorial 14 - this.setState || State Manipulation](https://www.youtube.com/watch?v=K9yUB_yMOZ0)
-- [ReactJS Tutorial 13 - Event Handling](https://www.youtube.com/watch?v=lH92njo0RbM)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCbaR6YYn5VGXrR5_f-4tNsA)
