@@ -46,11 +46,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [ReactJS Tutorial 16 - Class based Components to Functional Component || state vs useState](https://www.youtube.com/watch?v=OACngUCAvNU)
 - [ReactJS Tutorial 15 - Two Way Binding || ReactJS Forms](https://www.youtube.com/watch?v=dViAlqZUY9s)
-- [Javascript console Methods || Console Logs, Errors, Warnings, Count, Assert  & More](https://www.youtube.com/watch?v=ustMqCLCRyM)
+- [Javascript console Methods || Console Logs, Errors, Warnings, Count, Assert, Table  & More](https://www.youtube.com/watch?v=ustMqCLCRyM)
 - [Things Every #ReactJS Beginner Should Know #shorts #webdevelopment](https://www.youtube.com/watch?v=IO2TCQzn66g)
 - [ReactJS Tutorial 14 - Working with Forms in ReactJS](https://www.youtube.com/watch?v=2lkrlhXrKNE)
-- [ReactJS Tutorial 14 - this.setState || State Manipulation](https://www.youtube.com/watch?v=K9yUB_yMOZ0)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCbaR6YYn5VGXrR5_f-4tNsA)
