@@ -46,11 +46,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Why ReactJS is so Popular ? | Learn Once Write Anywhere 🤩 | #shorts #reactjs #webdevelopment](https://www.youtube.com/watch?v=_YiDr9Ec0Og)
 - [ReactJS Tutorial 18 - Child to Parent Component Communication | React Components](https://www.youtube.com/watch?v=RP3ZyGFMNiQ)
 - [ReactJS Tutorial 17 - Functional Component | Modular Code base and Directory Structure](https://www.youtube.com/watch?v=UOm7NsPPLPs)
 - [ReactJS Tutorial 16 - Class based Components to Functional Component || state vs useState](https://www.youtube.com/watch?v=OACngUCAvNU)
 - [ReactJS Tutorial 15 - Two Way Binding || ReactJS Forms](https://www.youtube.com/watch?v=dViAlqZUY9s)
-- [Javascript console Methods || Console Logs, Errors, Warnings, Count, Assert, Table  & More](https://www.youtube.com/watch?v=ustMqCLCRyM)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCbaR6YYn5VGXrR5_f-4tNsA)
