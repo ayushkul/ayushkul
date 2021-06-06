@@ -46,7 +46,7 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Styled Components - Complete Tutorial - Style Your Components in React](https://www.youtube.com/watch?v=Hd2rKxucbWw)
+- [React Styled Components - Complete Tutorial - Style Your Components in React](https://www.youtube.com/watch?v=Hd2rKxucbWw)
 - [Why ReactJS is so Popular ? | Learn Once Write Anywhere 🤩 | #shorts #reactjs #webdevelopment](https://www.youtube.com/watch?v=_YiDr9Ec0Og)
 - [ReactJS Tutorial 18 - Child to Parent Component Communication | React Components](https://www.youtube.com/watch?v=RP3ZyGFMNiQ)
 - [ReactJS Tutorial 17 - Functional Component | Modular Code base and Directory Structure](https://www.youtube.com/watch?v=UOm7NsPPLPs)
