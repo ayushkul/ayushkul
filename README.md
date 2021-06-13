@@ -46,7 +46,7 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Build a Recipe App with React | React Recipe Finder | React Projects For Beginners](https://www.youtube.com/watch?v=z13CWiSkOFU)
+- [Build a Food Recipe App with React | React Recipe Finder | React Projects For Beginners](https://www.youtube.com/watch?v=z13CWiSkOFU)
 - [Build a Recipe App With React | React Recipe Finder | Demo Video](https://www.youtube.com/watch?v=CZlA6CMKhys)
 - [How to Deploy Node js Application on Heroku |  Host Websites For Free on HEROKU](https://www.youtube.com/watch?v=PT74YkX38yU)
 - [React Styled Components - Complete Tutorial - Style Your Components in React](https://www.youtube.com/watch?v=Hd2rKxucbWw)
