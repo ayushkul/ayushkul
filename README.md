@@ -46,11 +46,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Build An Expense Tracker App using React JS | ReactJS Project for Beginners](https://www.youtube.com/watch?v=q1CjHlojkVk)
 - [Build A Weather App using React JS | React Project for Beginners](https://www.youtube.com/watch?v=_UXycMmVYj0)
 - [Build a Food Recipe App with React | API integration(axios), Debouncing, Material UI | Recipe Finder](https://www.youtube.com/watch?v=9JnF1nyTWg4)
 - [Build a Food Recipe App with React | React Recipe Finder | React Projects For Beginners](https://www.youtube.com/watch?v=z13CWiSkOFU)
 - [Build a Recipe App With React | React Recipe Finder | Demo Video](https://www.youtube.com/watch?v=CZlA6CMKhys)
-- [How to Deploy Node js Application on Heroku |  Host Websites For Free on HEROKU](https://www.youtube.com/watch?v=PT74YkX38yU)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCbaR6YYn5VGXrR5_f-4tNsA)
