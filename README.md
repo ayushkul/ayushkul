@@ -46,7 +46,7 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [React Movie App - ReactJS Project for Beginners](https://www.youtube.com/watch?v=YSNsZQf_CPM)
+- [React Movie App Tutorial - ReactJS Project for Beginners](https://www.youtube.com/watch?v=YSNsZQf_CPM)
 - [React Weather App #reactjs #javascript #webdevelopment #shorts](https://www.youtube.com/watch?v=RLIBvn18Q4k)
 - [Build An Expense Tracker App using React JS | ReactJS Project for Beginners](https://www.youtube.com/watch?v=q1CjHlojkVk)
 - [Build A Weather App using React JS | React Project for Beginners](https://www.youtube.com/watch?v=_UXycMmVYj0)
