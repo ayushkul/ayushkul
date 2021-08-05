@@ -46,11 +46,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Building APIs for Fullstack WhatsApp Clone | NodeJS | Whatsapp Clone - Part 3](https://www.youtube.com/watch?v=jDmWtVNB7xI)
 - [Fullstack Whatsapp Clone - Database and API design - Part 2](https://www.youtube.com/watch?v=bNfnRC7mZSk)
 - [Build a Whatsapp Clone with MERN Stack | ReactJS | Part - 1](https://www.youtube.com/watch?v=UBFs84OQrko)
 - [Build a Movie App using ReactJS | React Movie App | ReactJS Projects](https://www.youtube.com/watch?v=YSNsZQf_CPM)
 - [React Weather App #reactjs #javascript #webdevelopment #shorts](https://www.youtube.com/watch?v=RLIBvn18Q4k)
-- [Build An Expense Tracker App using React JS | ReactJS Project for Beginners](https://www.youtube.com/watch?v=q1CjHlojkVk)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCbaR6YYn5VGXrR5_f-4tNsA)
