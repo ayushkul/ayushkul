@@ -4,7 +4,7 @@
   Ayush Kulshrestha</a> 👨‍💻
 </h1>
 <p align='center'>
-  Fullstack Developer at Loop
+  Frontend Lead at Cars24.com
 </p>
 <p align='center'>
  
